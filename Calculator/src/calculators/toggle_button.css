@@ -1,0 +1,16 @@
+.toggle-button {
+    -fx-background-color: linear-gradient(#BCBCBC, #848484);
+    -fx-font: 12px Tahoma;
+    -fx-font-family: "Arial";
+    -fx-font-weight: bold;
+    -fx-text-fill: #F0F0F0;
+   
+}
+
+.toggle-button:selected {
+    -fx-background-color: linear-gradient(#B07050, #FFA050);
+    -fx-font: 12px Tahoma;
+    -fx-font-family: "Arial";
+    -fx-font-weight: bold;
+    -fx-text-fill: #F0F0F0;
+}

@@ -1,0 +1,15 @@
+.button {
+    -fx-background-color: linear-gradient(#BCBCBC, #848484);
+    -fx-font: 16px Tahoma;
+    -fx-font-family: "Arial";
+    -fx-font-weight: bold;
+    -fx-text-fill: #F0F0F0;
+}
+
+.button:pressed {
+  	-fx-background-color: linear-gradient(#B07050, #FFA050);
+    -fx-font: 16px Tahoma;
+    -fx-font-family: "Arial";
+    -fx-font-weight: bold;
+    -fx-text-fill: #F0F0F0;
+}
